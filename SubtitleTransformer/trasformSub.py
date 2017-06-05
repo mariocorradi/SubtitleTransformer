@@ -139,5 +139,4 @@ def readFile():
     except OSError:
         print "ciao"
 if __name__ == "__main__":
-
     readFile()
